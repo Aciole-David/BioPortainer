@@ -50,7 +50,7 @@ For more information on different methods of installing and using the BioPortain
 
 ## Author <a name="Author" /> [[menu]](#menu)
 
-Current development is led by Fabiano Menegidio and David Aciole Barbosa
+Current development is led by Dr. Fabiano Menegidio, PhD and Dr. David Aciole Barbosa, PhD
 
 ## Contributing <a name="Contributing" /> [[menu]](#menu)
 
